@@ -1,0 +1,18 @@
+  body{
+            background: burlywood;
+            color:rgb(255, 255, 255);
+            text-align:center;
+    }
+
+    .Header{
+        background-color: rgb(121, 94, 54);
+        background-size: 200px;
+    }
+    span{
+        color:beige;
+        background-color: black;
+    }
+    .Curtain{
+        background-image: url(cinder.png);
+        background-size: 200px;
+    }
