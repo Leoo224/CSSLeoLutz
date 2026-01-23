@@ -1,18 +1,29 @@
   body{
-            background: burlywood;
+            background: rgb(196, 163, 120);
             color:rgb(255, 255, 255);
             text-align:center;
-    }
-
-    .Header{
-        background-color: rgb(121, 94, 54);
-        background-size: 200px;
     }
     span{
         color:beige;
         background-color: black;
     }
+    .Header{
+        background-color: rgb(118, 94, 55);
+        background-size: 200px;
+    }
+
     .Curtain{
         background-image: url(cinder.png);
         background-size: 200px;
+    }
+    .List{
+        background-color: rgb(133, 83, 27);
+        text-align: left;
+    }
+    .Title{
+        color:rgb(197, 189, 26);
+    }
+    #curtainista{
+        color:beige;
+        background-color: black;
     }

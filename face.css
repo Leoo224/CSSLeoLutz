@@ -1,0 +1,123 @@
+body{
+    background-color: yellow;
+}
+#eye1{
+    width:220px;
+    height:220px;
+    background-color: rgb(255, 255, 255);
+    position:relative;
+    top:30px;
+    left:30px;
+}
+#eye2{
+    width:220px;
+    height:220px;
+    background-color: rgb(255, 255, 255);
+    position:relative;
+    left:280px;
+    bottom:190px;
+}
+#pupil1{
+    width:100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    bottom:350px;
+    left:60px;
+}
+#pupil2{
+    width:100px;
+    height: 100px;
+    background-color: black;
+    position: relative;
+    bottom:450px;
+    left:320px;
+}
+#mouth{
+    width:470px;
+    height:400px;
+    background-color: black;
+    position: relative;
+    bottom:330px;
+    left:30px;
+}
+#tooth1{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:700px;
+    left:60px;
+}
+#tooth2{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:740px;
+    left:120px;
+}
+#tooth3{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:780px;
+    left:180px;
+}
+#tooth4{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:820px;
+    left:240px;
+}
+#tooth5{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:860px;
+    left:300px;
+}
+#tooth6{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:900px;
+    left:360px;
+}
+#tooth7{
+    width:40px;
+    height:40px;
+    background-color: aliceblue;
+    position:relative;
+    bottom:940px;
+    left:420px;
+}
+#tongue1{
+    width:120px;
+    height:160px;
+    background-color: brown;
+    position: relative;
+    bottom:770px;
+    left:120px;
+}
+#tongue2{
+    width:100px;
+    height:100px;
+    background-color: brown;
+    position: relative;
+    bottom:870px;
+    left:180px;
+}
+#tongue3{
+    width:120px;
+    height:160px;
+    background-color: brown;
+    position: relative;
+    bottom:1030px;
+    left:270px;
+}
