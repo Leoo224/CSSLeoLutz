@@ -19,6 +19,9 @@
     .List{
         background-color: rgb(133, 83, 27);
         text-align: left;
+        margin:50px;
+        font-size: large;
+
     }
     .Title{
         color:rgb(197, 189, 26);
@@ -26,4 +29,5 @@
     #curtainista{
         color:beige;
         background-color: black;
+        padding: 50px;
     }
